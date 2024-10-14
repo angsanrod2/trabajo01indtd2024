@@ -3,13 +3,13 @@
 #Aplicar los criterios de decisión bajo incertidumbre a los problemas cuya matriz 
 #de valores numéricos viene dada en la tabla siguiente:
 
-###### e1  ## e2  ## e3 |
--------------------------
+######  e1  ## e2  ## e3 |
+#-------------------------
   #d1: |  5  |  4   |  6 |
   #d2: |  2  |  3   |  1 |
   #d3: | -1  |  7   |  6 |
   #d4: |  5  |  2   |  0 |
--------------------------
+#-------------------------
   
 source("teoriadecision_funciones_incertidumbre.R")
 
